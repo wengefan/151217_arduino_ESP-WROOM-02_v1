@@ -1,4 +1,5 @@
 # ArduinoとESP-WROOM-02でLチカ
+ICS MEDIA記事「[Arduinoと数百円のWi-Fiモジュールで爆安IoTをはじめよう](https://ics.media/entry/10457)」にて解説しています。
 
 # 構成
 Arduino UNO R3にESP-WROOM-02をWi-Fiモジュールとしてシリアル通信で接続。  
